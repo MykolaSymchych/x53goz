@@ -56,30 +56,25 @@
       </div>
     </front>
     <body>
-      <div xml:id="y789tt-d1e93">
-        <head xml:id="y789tt-d1e93-Hd1e108">Disputatio 3</head>
-        <head xml:id="y789tt-d1e93-Hd1e111" type="question-title">De iis, quae tertiam intellectus operationem concernunt</head>
-        <div xml:id="y789tt-d1e93-Dd1e114">
-          <head xml:id="y789tt-d1e93-Hd1e116">Quaestio ultima</head>
-          <head xml:id="y789tt-d1e93-Hd1e118" type="question-title">De communioribus distinctionum terminis</head>
-          <p xml:id="y789tt-d1e93-d1e134">
-            <pb ed="#D" n="26-v"/>
+      <div >
+        <head>Disputatio 3</head>
+        <head type="question-title">De iis, quae tertiam intellectus operationem concernunt</head>
+        <div>
+          <head>Quaestio ultima</head>
+          <head  type="question-title">De communioribus distinctionum terminis</head>
+          <p>
             <lb ed="#D" n="23"/>Quaestio ultima
-            <lb ed="#D" n="24"/>De communioribus distinctionum terminis
+            <lb ed="#D"/>De communioribus distinctionum terminis
           </p>
-          <p xml:id="y789tt-d1e93-d1e121">
-            <lb ed="#D" n="24"/>Primo plerumque recurrunt termini Distinctionis Materialiter Formaliter, Materialiter 
+          <p>
+            <lb ed="#D"/>Primo plerumque recurrunt termini Distinctionis Materialiter Formaliter, Materialiter 
             <lb ed="#D"/>dicitur per respectum ad Materiam quae est primum subiectum formarum, [in] per se indifferens 
             <lb ed="#D"/>ad hanc vel illam formam, et determinatur ad certam speciem per formam. Quae 
             <lb ed="#D"/>ergo talia praedicata habent dicuntur sumi materialiter. Formaliter dicitur per 
-            respe<lb ed="#D"/>ctum ad formam quae recipitur in materia actu ac-
-            <add place="above-line" hand="#N1">tuat</add> 
-            materiam, indifferentiam
+            respe<lb ed="#D"/>ctum ad formam quae recipitur in materia actu ac<add place="above-line" hand="#N1">tuat</add> materiam, indifferentiam
             <lb ed="#D"/>eius ad certam speciem determinat. Quae ergo sub his praedicatis considerantur
             <lb ed="#D"/>dicuntur considerari formaliter. Item materialiter ea conveniunt subiecto quae
-            <lb ed="#D"/>conveniunt ei ideo, quia 
-            <add place="above-line" hand="#N1">in</add>
-            illo sunt et reperiuntur sive recipiuntur. Sic album est
+            <lb ed="#D"/>conveniunt ei ideo, quia <add place="above-line" hand="#N1">in</add> illo sunt et reperiuntur sive recipiuntur. Sic album est
             <pb ed="#D" n="27-r"/>
             <lb ed="#D"/>dulce materialiter, hoc est et albedo et dulcedo in eodem sunt subiecto.
             <lb ed="#D"/>formaliter ea conveniunt subiecto, quae conveniunt ratione formae, ut album
@@ -163,15 +158,13 @@
             <lb ed="#D"/>Genus autem est potentia metaphisica quia determinatur per actum
             me<lb ed="#D"/>taphisicum scilicet differentiam. Sic animal consideratum secundum se et praecise
             <lb ed="#D"/>est indifferens ut determinetur vel per differentiam rationalitatis vel irrationalitatis,
-            <lb ed="#D"/>adeoque vocatur potentia metaphisica Ly animal. Differentia vero
-            <add place="above-line" hand="#N1">v.g.</add>
-            Ly
+            <lb ed="#D"/>adeoque vocatur potentia metaphisica Ly animal. Differentia <add place="above-line" hand="#N1">v.g.</add> Ly
             <lb ed="#D"/>rationale vel irrationale est actus quia determinat animal ad certam speciem
             <lb ed="#D"/>bruti vel hominis.
           </p>
           <p>
             <lb ed="#D"/>Decimo Absolute et simpliciter respective seu comparative.
-            Ab<lb ed="#D"/>solute res est talis quae sine respectu ad aliud est talis. V.g. trium
+            Ab<lb ed="#D"/>solute res est talis quae sine respectu ad aliud est talis. V. g. trium
             <!-- 3rium -->
             <lb ed="#D"/>cubitorum homo absolute est magnus. Respective vero seu comparative est
             <pb ed="#D" n="28-r"/>
