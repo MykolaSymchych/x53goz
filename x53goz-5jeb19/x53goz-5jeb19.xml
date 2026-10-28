@@ -32,7 +32,7 @@
         <listWit>
           <witness xml:id="M" n="cod-r7yv7v">Vernadsky National Library of Ukraine, fonds 8, 60</witness>
           <witness xml:id="D" n="cod-ro9i8u">Vernadsky National Library of Ukraine, fonds 305, 152</witness>
-          <witness xml:id="S" n="cod-xx1yy2zz">Vernadsky National Library of Ukraine, fonds 312, 619</witness>
+          <witness xml:id="S" n="cod-gh62aa">Vernadsky National Library of Ukraine, fonds 312, 619</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -61,12 +61,12 @@
       </div>
     </front>
     <body>
-      <div xml:id="y789tt-d1e93">
-        <head xml:id="y789tt-d1e93-Hd1e108">Disputatio 3</head>
-        <head xml:id="y789tt-d1e93-Hd1e111" type="question-title">De iis, quae tertiam intellectus operationem concernunt</head>
-        <div xml:id="y789tt-d1e93-Dd1e114">
-          <head xml:id="y789tt-d1e93-Hd1e116">Quaestio ultima</head>
-          <head xml:id="y789tt-d1e93-Hd1e118" type="question-title">De communioribus distinctionum terminis</head>
+      <div>
+        <head>Disputatio 3</head>
+        <head type="question-title">De iis, quae tertiam intellectus operationem concernunt</head>
+        <div>
+          <head>Quaestio ultima</head>
+          <head type="question-title">De communioribus distinctionum terminis</head>
           <p>
             <pb ed="#D" n="26-v"/>
             Quaestio ultima
