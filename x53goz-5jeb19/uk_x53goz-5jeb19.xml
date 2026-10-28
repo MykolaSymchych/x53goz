@@ -51,15 +51,15 @@
       </div>
     </front>
     <body>
-      <div xml:id="y789tt-d1e93">
-        <head xml:id="y789tt-d1e93-Hd1e108">Питання !</head><!-- disputatio, quaestio 1-->
-        <head xml:id="y789tt-d1e93-Hd1e111" type="question-title"></head>
-        <p xml:id="y789tt-d1e93-d1e115">
+      <div>
+        <head>Питання !</head><!-- disputatio, quaestio 1-->
+        <head type="question-title"></head>
+        <p>
           
           <pb ed="#M" n="551-v"/>
           
         </p>
-        <div xml:id="y789tt-d1e93-Dd1e114">
+        <div>
           <p>
             Перше, терміни розрізнення насамперед виявляються <!-- не можу знайти відповідного значення --> матеріально — формально.
             Коли про щось мовиться матеріально, то мовиться щодо матерії, яка є першим суб'єктом форм,
